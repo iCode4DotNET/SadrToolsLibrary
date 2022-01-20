@@ -1,6 +1,6 @@
 ﻿namespace SadrTools.CommonTools.Utility
 {
-    class DateMethods
+    public class DateMethods
     {
 
     }
