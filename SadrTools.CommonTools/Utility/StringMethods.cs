@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SadrTools.CommonTools.Utility
 {
-    class StringMethods
+    public static class StringMethods
     {
 
     }
